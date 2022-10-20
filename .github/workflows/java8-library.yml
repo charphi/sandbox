@@ -29,7 +29,7 @@ jobs:
           java-version: ${{ matrix.java }}
 
       - name: Setup Maven cache
-        uses: actions/cache@v1
+        uses: actions/cache@v3.0.11
         with:
           path: ~/.m2
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
@@ -61,7 +61,7 @@ jobs:
           java-version: ${{ matrix.java }}
 
       - name: Setup Maven cache
-        uses: actions/cache@v1
+        uses: actions/cache@v3.0.11
         with:
           path: ~/.m2
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
