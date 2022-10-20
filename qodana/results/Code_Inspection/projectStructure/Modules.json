@@ -1,0 +1,187 @@
+{
+  "modules": [
+    {
+      "name": "sandbox-desktop",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/sandbox-desktop",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/sandbox-desktop/src/main/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/sandbox-desktop/src/main/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "sandbox-api",
+          "type": "Module"
+        },
+        {
+          "name": "sandbox-impl",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: com.github.lalyos:jfiglet:0.0.9",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: com.github.nbbrd.java-desktop-util:java-desktop-util-swing:2.2.6",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "sandbox-cli",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/sandbox-cli",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/sandbox-cli/src/main/java",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "sandbox-api",
+          "type": "Module"
+        },
+        {
+          "name": "sandbox-impl",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: com.github.lalyos:jfiglet:0.0.9",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: info.picocli:picocli:4.6.3",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "sandbox-parent",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "sandbox-impl",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/sandbox-impl",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/sandbox-impl/src/main/java",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "sandbox-api",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: com.github.lalyos:jfiglet:0.0.9",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "sandbox-api",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/sandbox-api",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/sandbox-api/src/main/java",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "sandbox-bom",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/sandbox-bom",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    }
+  ]
+}
