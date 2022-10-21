@@ -7,12 +7,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/charphi/sandbox",
-        "revisionId": "5a03e1e84dcc7f23b6fec2380958f44c3b33bb0b",
-        "branch": "master"
+        "revisionId": "952f79c2c4b6d4b1fff1da372fdaf0a7a074129c",
+        "branch": "develop"
       }
     },
     "deviceId": "200820300000000-e83b-a3ca-4fd2-251cd4325998",
-    "jobUrl": "https://github.com/charphi/sandbox/actions/runs/3291364108",
+    "jobUrl": "https://github.com/charphi/sandbox/actions/runs/3295350729",
     "repoUrl": "https://github.com/charphi/sandbox"
   }
 }

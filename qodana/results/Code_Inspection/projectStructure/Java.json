@@ -1,11 +1,7 @@
 {
   "modules": [
     {
-      "name": "sandbox-desktop",
-      "languageLevel": 9
-    },
-    {
-      "name": "sandbox-cli",
+      "name": "sandbox-bom",
       "languageLevel": 9
     },
     {
@@ -21,7 +17,11 @@
       "languageLevel": 9
     },
     {
-      "name": "sandbox-bom",
+      "name": "sandbox-desktop",
+      "languageLevel": 9
+    },
+    {
+      "name": "sandbox-cli",
       "languageLevel": 9
     }
   ]

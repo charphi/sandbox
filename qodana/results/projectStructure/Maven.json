@@ -1,12 +1,12 @@
 {
   "libraries": [
     {
-      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-api:2.2.3",
+      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-api:2.2.4-SNAPSHOT",
       "unresolved": false,
       "groupId": "com.github.nbbrd.sandbox",
       "artifactId": "sandbox-api",
-      "version": "2.2.3",
-      "baseVersion": "2.2.3",
+      "version": "2.2.4-SNAPSHOT",
+      "baseVersion": "2.2.4-SNAPSHOT",
       "type": "jar",
       "optional": false,
       "scope": "compile"
@@ -23,23 +23,23 @@
       "scope": "compile"
     },
     {
-      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-api:2.2.3",
+      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-api:2.2.4-SNAPSHOT",
       "unresolved": false,
       "groupId": "com.github.nbbrd.sandbox",
       "artifactId": "sandbox-api",
-      "version": "2.2.3",
-      "baseVersion": "2.2.3",
+      "version": "2.2.4-SNAPSHOT",
+      "baseVersion": "2.2.4-SNAPSHOT",
       "type": "jar",
       "optional": false,
       "scope": "compile"
     },
     {
-      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-impl:2.2.3",
+      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-impl:2.2.4-SNAPSHOT",
       "unresolved": false,
       "groupId": "com.github.nbbrd.sandbox",
       "artifactId": "sandbox-impl",
-      "version": "2.2.3",
-      "baseVersion": "2.2.3",
+      "version": "2.2.4-SNAPSHOT",
+      "baseVersion": "2.2.4-SNAPSHOT",
       "type": "jar",
       "optional": false,
       "scope": "compile"
@@ -67,23 +67,23 @@
       "scope": "compile"
     },
     {
-      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-api:2.2.3",
+      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-api:2.2.4-SNAPSHOT",
       "unresolved": false,
       "groupId": "com.github.nbbrd.sandbox",
       "artifactId": "sandbox-api",
-      "version": "2.2.3",
-      "baseVersion": "2.2.3",
+      "version": "2.2.4-SNAPSHOT",
+      "baseVersion": "2.2.4-SNAPSHOT",
       "type": "jar",
       "optional": false,
       "scope": "compile"
     },
     {
-      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-impl:2.2.3",
+      "ideaName": "Maven: com.github.nbbrd.sandbox:sandbox-impl:2.2.4-SNAPSHOT",
       "unresolved": false,
       "groupId": "com.github.nbbrd.sandbox",
       "artifactId": "sandbox-impl",
-      "version": "2.2.3",
-      "baseVersion": "2.2.3",
+      "version": "2.2.4-SNAPSHOT",
+      "baseVersion": "2.2.4-SNAPSHOT",
       "type": "jar",
       "optional": false,
       "scope": "compile"
