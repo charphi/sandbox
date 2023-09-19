@@ -1,19 +1,19 @@
 {
-  "total": 0,
+  "total": 1,
   "tools inspection": {
-    "Code Inspection": 0
+    "Code Inspection": 1
   },
   "linter": "QDJVMC",
   "attributes": {
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/charphi/sandbox.git",
-        "revisionId": "cf6f4660c1a0897d256c5321fb757d795fd3126f",
-        "branch": "charphi-patch-1"
+        "revisionId": "f4189393e1241116cb74a0d0a0889e63a0f00103",
+        "branch": "refs/heads/develop"
       }
     },
     "deviceId": "200820300000000-50cf-9789-24bd-da88c38b782f",
-    "jobUrl": "https://github.com/charphi/sandbox/actions/runs/6235189137",
+    "jobUrl": "https://github.com/charphi/sandbox/actions/runs/6235209049",
     "repoUrl": "https://github.com/charphi/sandbox.git"
   }
 }
